@@ -1,0 +1,142 @@
+[
+  {
+    "question": "What keyword is used to define a function in Python?",
+    "options": ["function", "def", "fn", "define"],
+    "answer": 1,
+    "difficulty": "easy",
+    "category": "Python Basics"
+  },
+  {
+    "question": "Which of these is an immutable data type in Python?",
+    "options": ["list", "dict", "tuple", "set"],
+    "answer": 2,
+    "difficulty": "easy",
+    "category": "Python Basics"
+  },
+  {
+    "question": "What does the 'len()' function return?",
+    "options": [
+      "The sum of elements",
+      "The number of elements",
+      "The last element",
+      "The maximum element"
+    ],
+    "answer": 1,
+    "difficulty": "easy",
+    "category": "Python Basics"
+  },
+  {
+    "question": "Which operator is used for floor division?",
+    "options": ["/", "%", "//", "**"],
+    "answer": 2,
+    "difficulty": "easy",
+    "category": "Operators"
+  },
+  {
+    "question": "What is the output of: print(type([]))?",
+    "options": [
+      "<class 'tuple'>",
+      "<class 'array'>",
+      "<class 'list'>",
+      "<class 'dict'>"
+    ],
+    "answer": 2,
+    "difficulty": "easy",
+    "category": "Data Types"
+  },
+  {
+    "question": "Which method adds an element to the end of a list?",
+    "options": ["add()", "push()", "append()", "insert()"],
+    "answer": 2,
+    "difficulty": "easy",
+    "category": "Data Types"
+  },
+  {
+    "question": "What does 'OOP' stand for?",
+    "options": [
+      "Object-Oriented Programming",
+      "Open-Oriented Protocol",
+      "Output-Oriented Procedure",
+      "Object-Only Processing"
+    ],
+    "answer": 0,
+    "difficulty": "easy",
+    "category": "Concepts"
+  },
+  {
+    "question": "What is a decorator in Python?",
+    "options": [
+      "A function that modifies the behavior of another function",
+      "A way to add color to terminal output",
+      "A class that decorates the UI",
+      "A built-in that adds comments to code"
+    ],
+    "answer": 0,
+    "difficulty": "medium",
+    "category": "Advanced"
+  },
+  {
+    "question": "What does 'yield' do in a generator function?",
+    "options": [
+      "Returns and terminates the function",
+      "Pauses execution and produces a value",
+      "Raises StopIteration immediately",
+      "Creates a new thread"
+    ],
+    "answer": 1,
+    "difficulty": "medium",
+    "category": "Advanced"
+  },
+  {
+    "question": "Which context manager method is called when entering a 'with' block?",
+    "options": ["__enter__", "__start__", "__open__", "__begin__"],
+    "answer": 0,
+    "difficulty": "medium",
+    "category": "Advanced"
+  },
+  {
+    "question": "What is the time complexity of a Python list's append() operation?",
+    "options": ["O(n)", "O(log n)", "O(1) amortized", "O(n²)"],
+    "answer": 2,
+    "difficulty": "hard",
+    "category": "Performance"
+  },
+  {
+    "question": "What is the GIL in Python?",
+    "options": [
+      "Global Input Lock",
+      "General Interpreter Limit",
+      "Global Interpreter Lock",
+      "Generic Interface Layer"
+    ],
+    "answer": 2,
+    "difficulty": "hard",
+    "category": "Concurrency"
+  },
+  {
+    "question": "Which Python version introduced f-strings?",
+    "options": ["3.4", "3.5", "3.6", "3.8"],
+    "answer": 2,
+    "difficulty": "medium",
+    "category": "Python Basics"
+  },
+  {
+    "question": "What does 'enumerate()' return?",
+    "options": [
+      "A list of indices",
+      "A list of values",
+      "A list of (index, value) pairs",
+      "An iterator of (index, value) pairs"
+    ],
+    "answer": 3,
+    "difficulty": "easy",
+    "category": "Python Basics"
+  },
+  {
+    "question": "Which library is used for numerical computing in Python?",
+    "options": ["scipy", "numpy", "pandas", "math"],
+    "answer": 1,
+    "difficulty": "easy",
+    "category": "Libraries"
+  }
+]
